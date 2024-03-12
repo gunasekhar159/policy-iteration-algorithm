@@ -80,7 +80,8 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ![image](https://github.com/gunasekhar159/policy-iteration-algorithm/assets/95043391/5c1dacfb-9626-424b-a68c-dbf6c1847fd9)
 
 ## success rate for the optimal policy:
-<img width="393" alt="3" src="https://github.com/gunasekhar159/policy-iteration-algorithm/assets/95043391/0cabc2f7-63b2-4c3c-8d17-b0dca85790fa">
+<img width="370" alt="image" src="https://github.com/gunasekhar159/policy-iteration-algorithm/assets/95043391/229c8272-971c-430a-85ba-6820eacf877f">
+
 
 ## RESULT:
 
