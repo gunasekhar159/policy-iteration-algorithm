@@ -81,8 +81,6 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ## success rate for the optimal policy:
 <img width="370" alt="image" src="https://github.com/gunasekhar159/policy-iteration-algorithm/assets/95043391/229c8272-971c-430a-85ba-6820eacf877f">
-
-
 ## RESULT:
 
 Thus, a program is developed to perform policy iteration for the given MDP.
